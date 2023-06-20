@@ -1,0 +1,10 @@
+username:thierrybongjoh
+password:yJWMCYAdMn3yZGFF
+
+
+mongodb+srv://thierrybongjoh:yJWMCYAdMn3yZGFF@reactbackendportfolio.wdgb37o.mongodb.net/
+
+
+
+mongodb+srv://thierrybongjoh:yJWMCYAdMn3yZGFF
+@reactbackendportfolio.wdgb37o.mongodb.net/?retryWrites=true&w=majority
