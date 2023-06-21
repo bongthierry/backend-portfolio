@@ -24,6 +24,6 @@ app.use(express.json());
 app.use('/api', require('./router/app.route'));
 
 //start the server
-app.listen(9000, ()=>{
-    console.log('server started on port 9000');
+app.listen(8000, ()=>{
+    console.log('server started on port 8000');
 })
